@@ -1,0 +1,18 @@
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe.config
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.pdb
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\bin\Debug\DB.dll
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.frmIMSA.resources
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.Properties.Resources.resources
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csproj.GenerateResource.Cache
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.exe
+C:\Users\marlonm\Dropbox\BOFASA\Proyectos\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.pdb
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe.config
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.exe
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.pdb
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.pdb
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csprojResolveAssemblyReference.cache
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.frmIMSA.resources
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.Properties.Resources.resources
+C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csproj.GenerateResource.Cache
