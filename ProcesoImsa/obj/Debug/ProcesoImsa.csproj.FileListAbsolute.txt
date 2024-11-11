@@ -16,3 +16,12 @@ C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoIms
 C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.frmIMSA.resources
 C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.Properties.Resources.resources
 C:\Users\josev\Documents\Documentos Bofasa\Proyectos\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe.config
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.exe
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.pdb
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.exe
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\bin\Debug\ProcesoImsa.pdb
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.frmIMSA.resources
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\IMSA\ProcesoImsa\ProcesoImsa\obj\Debug\ProcesoImsa.csproj.GenerateResource.Cache

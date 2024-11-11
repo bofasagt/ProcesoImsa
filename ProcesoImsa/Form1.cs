@@ -38,6 +38,7 @@ namespace ProcesoImsa
                     WSIMSA.Url = "https://handheldws.imsa.com.gt:4443/wsIMSAFarmacia/wsServicioFarmaciaImsa.asmx?wsdl";
                     gt.com.imsa.handheldws.clsFarmaciaImsaRequest RequestImsa = new gt.com.imsa.handheldws.clsFarmaciaImsaRequest();
                     System.Net.ServicePointManager.CertificatePolicy = new TrustAllCertificatePolicy();
+                    System.Net.ServicePointManager.SecurityProtocol = (System.Net.SecurityProtocolType)3072;
                     System.Net.CredentialCache CredencialCache = new System.Net.CredentialCache();
                     System.Net.NetworkCredential NetCredencial = new System.Net.NetworkCredential("FCVERDE", "F@rm@c1$CV3rd3", "MAGDALENA");
                     CredencialCache.Add(new Uri(WSIMSA.Url), "Basic", NetCredencial);
